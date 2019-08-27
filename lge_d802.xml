@@ -5,7 +5,7 @@
 <project path="device/lge/d802" 
   name="LineageOS/android_device_lge_d802" remote="github" revision="cm-14.1" />
 <project path="device/lge/g2-common"
-  name="LineageOS LineageOS/android_device_lge_g2-common" remote="github" revision="cm-14.1" />
+  name="LineageOS/android_device_lge_g2-common" remote="github" revision="cm-14.1" />
 <project path="device/qcom/common"
   name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
 <project path="kernel/lge/msm8974"
